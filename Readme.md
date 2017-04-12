@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Serhii Moskalchuk tudent](https://up.htmlacademy.ru/htmlcss/17/user/400897).
+* Студент: [Serhii Moskalchuk student](https://up.htmlacademy.ru/htmlcss/17/user/400897).
 
 ---
 
